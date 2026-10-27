@@ -2,6 +2,15 @@
  "channel": "stable",
  "releases": [
   {
+   "version": "0.1.9",
+   "url": "https://raw.githubusercontent.com/devvuiveit-cell/edge-config-sync/main/channel/edge-config-0.1.9-x64.exe",
+   "sha256": "57298089e57aab65ca75caadd1d7de669ca53718736c641091a638e5305a70cf",
+   "size": 15070673,
+   "notes": "Proxy V6: tạo proxy IPv6 trên máy (cần bản cài đầy đủ có 3proxy); chọn nhanh Ctrl/Shift/kéo ở mọi bảng; chuột phải Profile thêm Gán proxy trực tiếp (kho/tự nhập, 1-1, kiểm sống); nút đổi ngôn ngữ VI/EN; kèm sẵn ffmpeg; sửa tự khởi động lại sau cập nhật; MCP điều khiển Proxy V6.",
+   "publishedAt": "2026-10-27T14:27:00+00:00",
+   "signed": false
+  },
+  {
    "version": "0.1.7",
    "url": "https://raw.githubusercontent.com/devvuiveit-cell/edge-config-sync/main/channel/edge-config-0.1.7-x64.exe",
    "sha256": "72a29f4e7749acf83fe8a99bb3541afd2418c2f3880ce691c2d13f140cb9866f",
