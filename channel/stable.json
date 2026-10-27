@@ -2,6 +2,15 @@
  "channel": "stable",
  "releases": [
   {
+   "version": "0.1.2",
+   "url": "https://raw.githubusercontent.com/devvuiveit-cell/edge-config-sync/main/channel/edge-config-0.1.2-x64.exe",
+   "sha256": "386930822cea0ad3db2448a3aa2ad9f4fddee6bc6eb8bbeb91facb036d750ae6",
+   "size": 14962789,
+   "notes": "",
+   "publishedAt": "2026-10-27T05:55:24+00:00",
+   "signed": false
+  },
+  {
    "version": "0.1.1",
    "url": "https://raw.githubusercontent.com/devvuiveit-cell/edge-config-sync/main/channel/edge-config-0.1.1-x64.exe",
    "sha256": "925d41cafc65690a2ab26621ef4b44afd11709f3c723d7186c8995dac537d743",
