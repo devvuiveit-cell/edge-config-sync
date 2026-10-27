@@ -2,6 +2,15 @@
  "channel": "stable",
  "releases": [
   {
+   "version": "0.1.7",
+   "url": "https://raw.githubusercontent.com/devvuiveit-cell/edge-config-sync/main/channel/edge-config-0.1.7-x64.exe",
+   "sha256": "72a29f4e7749acf83fe8a99bb3541afd2418c2f3880ce691c2d13f140cb9866f",
+   "size": 14968213,
+   "notes": "Tự khởi động lại sau khi cập nhật (sửa lỗi cập nhật xong không mở lại); ẩn cửa sổ console khi chạy nền; thêm nút đổi ngôn ngữ VI/EN trên thanh tiêu đề.",
+   "publishedAt": "2026-10-27T10:29:45+00:00",
+   "signed": false
+  },
+  {
    "version": "0.1.6",
    "url": "https://raw.githubusercontent.com/devvuiveit-cell/edge-config-sync/main/channel/edge-config-0.1.6-x64.exe",
    "sha256": "696679c89f4a1a64b01a413e4dc87b9922bc7836a97985c5bb7d7780f8c78343",
