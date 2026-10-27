@@ -2,6 +2,15 @@
  "channel": "stable",
  "releases": [
   {
+   "version": "0.1.10",
+   "url": "https://raw.githubusercontent.com/devvuiveit-cell/edge-config-sync/main/channel/edge-config-0.1.10-x64.exe",
+   "sha256": "04f5a5b59eed262d13eae80c8df5bed35dc733e887b10ca22e6c06f6ce0ec1bc",
+   "size": 15058796,
+   "notes": "Vá cửa sổ cmd nhấp nháy khi tự mở lại sau cập nhật; sửa lỗi mở lại app khi thư mục cài có dấu cách; bản portable khi cập nhật sẽ cập nhật ngay tại thư mục portable.",
+   "publishedAt": "2026-10-27T15:23:54+00:00",
+   "signed": false
+  },
+  {
    "version": "0.1.9",
    "url": "https://raw.githubusercontent.com/devvuiveit-cell/edge-config-sync/main/channel/edge-config-0.1.9-x64.exe",
    "sha256": "57298089e57aab65ca75caadd1d7de669ca53718736c641091a638e5305a70cf",
