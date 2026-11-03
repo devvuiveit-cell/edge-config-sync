@@ -2,6 +2,15 @@
  "channel": "stable",
  "releases": [
   {
+   "version": "0.1.13",
+   "url": "https://raw.githubusercontent.com/devvuiveit-cell/edge-config-sync/main/channel/edge-config-0.1.13-x64.exe",
+   "sha256": "6fad9dd40995a5cb1cb3cd3caee89b8f3c780adf9671305f614c34597f6f5253",
+   "size": 15326282,
+   "notes": "Đăng nhập thẳng trong tool (không cần mở trình duyệt) + đăng nhập Google; tự tải gói có sẵn của tài khoản và mua gói ngay trong tool; chuột phải Profile đầy đủ thao tác, copy nhiều định dạng (uid|pass|cookie|2fa...); trợ lý AI điều khiển & hoàn thiện workflow (OpenRouter/Ollama/Claude Desktop qua MCP); lớp chống crack xác minh chữ ký; chia sẻ profile qua Driver.",
+   "publishedAt": "2026-11-03T04:24:55+00:00",
+   "signed": false
+  },
+  {
    "version": "0.1.10",
    "url": "https://raw.githubusercontent.com/devvuiveit-cell/edge-config-sync/main/channel/edge-config-0.1.10-x64.exe",
    "sha256": "04f5a5b59eed262d13eae80c8df5bed35dc733e887b10ca22e6c06f6ce0ec1bc",
